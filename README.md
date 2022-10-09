@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/74/9a/6e/749a6eacb3d3f1777541b292dfff3250.jpg)
+
 <h1 align="center">Hi 👋, I'm Mohd Sameer</h1>
 <h3 align="center">A passionate blockchain developer professional from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
