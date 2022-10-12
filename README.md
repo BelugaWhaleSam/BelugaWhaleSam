@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mohd Sameer</h1>
+<h1 align="center">Hi 👋, I'm Sameer</h1>
 <h3 align="center">A passionate blockchain developer professional from India</h3>
 <img align="center" alt="Coding" width="300" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 
