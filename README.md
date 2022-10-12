@@ -28,5 +28,6 @@
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=belugawhalesam&show_icons=true&locale=en" alt="belugawhalesam" /></p>
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=belugawhalesam&" alt="belugawhalesam" /></p>
