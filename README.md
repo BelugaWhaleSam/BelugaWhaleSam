@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sameer</h1>
 <h3 align="center">A passionate blockchain developer professional from India</h3>
-<img align="center" alt="Coding" width="300" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 
 <p align="left"> <a href="https://twitter.com/@belugasam" target="blank"><img src="https://img.shields.io/twitter/follow/belugasam?logo=twitter&style=for-the-badge" alt="belugasam" /></a> </p>
 
@@ -10,8 +9,6 @@
 - 💬 Ask me about **Blockchain, React**
 
 - 📫 How to reach me **sameermohd2k1@gmail.com**
-
-- ⚡ Fun fact **Beluga whale is easily recognisable thanks to its globular head**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
