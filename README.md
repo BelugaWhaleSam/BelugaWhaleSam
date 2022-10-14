@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sameer</h1>
 <h3 align="center">A passionate blockchain developer professional from India</h3>
 
-<p align="left"> <a href="https://twitter.com/@belugasam" target="blank"><img src="https://img.shields.io/twitter/follow/belugasam?logo=twitter&style=for-the-badge" alt="belugasam" /></a> </p>
-
-- 🌱 I’m currently learning **Ether js, Hyperledger**
+- 🌱 I’m currently learning **Defi, Hardhat**
 
 - 💬 Ask me about **Blockchain, React**
 
