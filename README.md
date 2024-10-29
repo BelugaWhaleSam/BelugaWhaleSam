@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Java SpringBoot and React Js
-
+🔭 I’m currently working on Java SpringBoot at Oracle.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-sameer-183572236) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@0xsam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BelugaSam) 
